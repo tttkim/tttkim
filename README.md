@@ -1,16 +1,19 @@
+# 🏔️ 안녕하세요! 김태하입니다
+
+## 꾸준히 도전하는 개발자
+
+저는 새로운 영역에 도전하는 것을 두려워하지 않습니다.
+
+모바일 개발자를 목표로 꾸준히 학습하고 있습니다.
+
+[블로그](https://velog.io/@tttkim)
+[포트폴리오](https://foil-nasturtium-61a.notion.site/5b92dab45f174f279cb3d7bd148b9576)
+
+<div style="flex flex-row">
+  <img src="https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/java-FF160B?style=for-the-badge&logo=java&logoColor=white">
+</div>
+
 ![Leetcode Stats](https://leetcard.jacoblin.cool/tttkim)
 
-<!--
-**tttkim/tttkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
