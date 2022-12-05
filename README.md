@@ -4,7 +4,7 @@
 
 새로운 분야를 학습하는 것을 좋아합니다.
 
-모바일 개발자를 목표로 꾸준히 학습하고 있습니다.
+오래 일하는 개발자를 목표로 꾸준히 학습하고 있습니다.
 
 [블로그](https://velog.io/@tttkim)
 [포트폴리오](https://foil-nasturtium-61a.notion.site/5b92dab45f174f279cb3d7bd148b9576)
